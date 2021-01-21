@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
 - skill: Data Analytics
-  description: <ul class="resume-item-list"><li>Graph Analysis (exploratory analysis, unsupervised anomaly detection, dynamic graph prediction)</li> </ul>
+  description: <ul class="resume-item-list"><li>Graph Analysis (exploratory analysis, unsupervised anomaly detection, dynamic graph prediction)</li> <li>Natural Language Processing (topic modeling, sentiment analysis)</li><li>Statistics (Causal inference, Generalized linear modeling, Time-series modeling)</li><li>"Tools:" Python (Tensorflow, Keras, Pytorch, Networkx), R (mlr, dplyr, lubridate, ggplot, rshiny), Excel, Matlab</li></ul>
 
 - skill: Graph Analysis
   description: Graph visualization and exploration, unsupervised anomaly detection, dynamic graph prediction
