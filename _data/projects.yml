@@ -1,14 +1,18 @@
 - project: Political social media engagement around the COVID-19 pandemic
   role: Researcher
   duration: Oct, 2020 &mdash; present
-  description: Crawling Facebook dataset with restAPI, analyze and model how COVID-19 information spread from official source to unofficial ones.
+  description: Crawling Facebook dataset with restAPI, I analyzed and modeled how COVID-19 information spread from official source to unofficial ones.
   
 - project: Abnormal Events Causal Analysis from Spatio-temporal Human Mobility Network (Thesis project)
   role: Researcher
   duration: Mar, 2020 &mdash; Oct, 2020
   # url: "#"
-  description: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, figure out how social events affect and are affected by anomalies in a dynamic human mobility graph. Perfect score in the university's thesis evaluation.
+  description: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, I figured out how social events affect and are affected by anomalies in a dynamic human mobility graph. Perfect score in the final thesis evaluation.
 
+- project: Data Mining Cup
+  role: Project Manager
+  duration: Nov, 2019 &madash; Feb, 2020
+  description: As a tutor of Business Analytics course at TUM, I desgined the ML competition and supported students.
 # Springfield Community Outreach Group
 - project: Distributed Data Mining
   role: Data Engineer
@@ -20,3 +24,14 @@
   role: Researcher
   duration: Apr, 2019 &mdash; Aug, 2019
   description: Reviewed and summarized recent researches on behavior modeling according to emotion recognition in autonomous vehicles.
+
+- project: Digital Twin
+  role: Data Analyst
+  duration: Sep, 2018 &mdash; Feb, 2019
+  url: "https://www.di-lab.tum.de/index.php?id=63&L=1"
+  description: Quantitative modeling and simulation of a business process in Celonis SE. The project was rated 'Very good' by the company and labaratory.
+
+- project: Data Mining Cup
+  role: Data Analyst
+  duration: Dec, 2018 &mdash; Jan, 2019
+  description: I predicted potential fault in Telefonica’s network. My team achieved top 5 among 59 teams.
