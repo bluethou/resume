@@ -2,11 +2,18 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+
+- project: Political social media engagement around the COVID-19 pandemic
+  role: Researcher
+  duration: Oct, 2020 &mdash; present
+  description: Crawling Facebook dataset with restAPI, analyze and model how COVID-19 information spread from official source to unofficial ones.
+  
+- project: Abnormal Events Causal Analysis from Spatio-temporal Human Mobility Network (Thesis project)
+  role: Researcher
+  duration: Mar, 2020 &mdash; Oct, 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, figure out how social events affect and are affected
+by anomalies in a dynamic human mobility graph. Perfect score in the university's thesis evaluation.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
