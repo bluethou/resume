@@ -21,7 +21,7 @@ resume_contact_telephone:       "+4917-75964673"
 resume_contact_address:         "Waagstrasse 2, Eching, Germany"
 
 resume_header_contact_info:     "Waagstrasse 2, Eching, Germany  • kprm2000@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Network analysis, Time seires forecasting, NLP </p><p>현재 구직 중입니다.</p>"
 
