@@ -1,13 +1,13 @@
 # Degree
-- degree: M.Sc Data Engineering and Analytics
-  uni: Technical University of Munich
-  year: 2018 &mdash; 2021
+- degree: Bachelor of Arts, Human Rights
+  uni: Yale University
+  year: 2004 &mdash; 2008
   awards:
-    - award: Thesis: Abnormal Events Causal Analysis from Spatio-temporal Human Mobility Network
-#  summary: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, figure out how social events affect and are affected by anomalies in a dynamic human mobility graph. Perfect score in the evaluation.
-#    - award: Article: Political social media engagement around the COVID-19 pandemic(on-going)
-#  summary: Crawling Facebook dataset with restAPI, analyze and predict how COVID-19 information spread from official source to unofficial ones.
+    - award: Summa Cumme Laude graduate
+  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: B.Sc in Mathematics & Systems Management Engineering
-  uni: Sungkyunkwan University
-  year: 2010 &mdash; 2016
+- degree: High School Diploma
+  uni: Springfield High School
+  year: 2004
+  award: Most likely to succeed
+  summary: You can choose to have either a single or multiple awards
