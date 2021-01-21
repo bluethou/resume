@@ -5,7 +5,7 @@
   awards:
     - award: Thesis: Abnormal Events Causal Analysis from Spatio-temporal Human Mobility Network
 #  summary: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, figure out how social events affect and are affected by anomalies in a dynamic human mobility graph. Perfect score in the evaluation.
-    - award: Article: Political social media engagement around the COVID-19 pandemic(on-going)
+#    - award: Article: Political social media engagement around the COVID-19 pandemic(on-going)
 #  summary: Crawling Facebook dataset with restAPI, analyze and predict how COVID-19 information spread from official source to unofficial ones.
 
 - degree: B.Sc in Mathematics & Systems Management Engineering
