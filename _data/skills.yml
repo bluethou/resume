@@ -1,7 +1,10 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Data Analytics
+  description: <ul class="resume-item-list"><li>Graph Analysis (exploratory analysis, unsupervised anomaly detection, dynamic graph prediction)</li> </ul>
+
+- skill: Graph Analysis
+  description: Graph visualization and exploration, unsupervised anomaly detection, dynamic graph prediction
 
 # Communications strategy
 - skill: Communications strategy
