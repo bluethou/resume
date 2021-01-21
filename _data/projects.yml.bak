@@ -7,8 +7,7 @@
   role: Researcher
   duration: Mar, 2020 &mdash; Oct, 2020
   # url: "#"
-  description: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, figure out how social events affect and are affected
-by anomalies in a dynamic human mobility graph. Perfect score in the university's thesis evaluation.
+  description: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, figure out how social events affect and are affected by anomalies in a dynamic human mobility graph. Perfect score in the university's thesis evaluation.
 
 # Springfield Community Outreach Group
 - project: Distributed Data Mining
