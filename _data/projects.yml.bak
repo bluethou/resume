@@ -1,8 +1,3 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-
 - project: Political social media engagement around the COVID-19 pandemic
   role: Researcher
   duration: Oct, 2020 &mdash; present
@@ -16,8 +11,13 @@
 by anomalies in a dynamic human mobility graph. Perfect score in the university's thesis evaluation.
 
 # Springfield Community Outreach Group
-- project: Distributed Data Miningp
+- project: Distributed Data Mining
   role: Data Engineer
   duration: Apr, 2019 &mdash; Aug, 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Spark ML with Hadoop clusters on a supercomputer for protein prediction.
+
+- project: Emotional Awareness in Autonomous Driving
+  role: Researcher
+  duration: Apr, 2019 &mdash; Aug, 2019
+  description: Reviewed and summarized recent researches on behavior modeling according to emotion recognition in autonomous vehicles.
