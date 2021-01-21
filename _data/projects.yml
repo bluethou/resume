@@ -1,8 +1,3 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-
 - project: Political social media engagement around the COVID-19 pandemic
   role: Researcher
   duration: Oct, 2020 &mdash; present
@@ -24,5 +19,5 @@ by anomalies in a dynamic human mobility graph. Perfect score in the university'
 
 - project: Emotional Awareness in Autonomous Driving
   role: Researcher
-  duration: Apr, 2019 &mdash Aug, 2019
+  duration: Apr, 2019 &mdash; Aug, 2019
   description: Reviewed and summarized recent researches on behavior modeling according to emotion recognition in autonomous vehicles.
