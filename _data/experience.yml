@@ -1,9 +1,9 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Siemens
+  position: Data Scientist(Werkstudium)
+  duration: Oct, 2019 &mdash; Sep 2020 (1 year)
+  summary: ML application development <ul class="resume-item-list"><li>Development and evaluation of demand forecasting models (R, AWS, CI/CD, distributed machine learning)</li><li>Research AWS analytics product</li><li>Application troubleshooting</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
