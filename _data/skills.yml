@@ -1,15 +1,11 @@
 # Skills
 # Organizational leadership
 - skill: Data Analytics
-  description: <ul class="resume-item-list"><li>Graph Analysis (exploratory analysis, unsupervised anomaly detection, dynamic graph prediction)</li> <li>Natural Language Processing (topic modeling, sentiment analysis)</li><li>Statistics (Causal inference, Generalized linear modeling, Time-series modeling)</li><li>"Tools:" Python (Tensorflow, Keras, Pytorch, Networkx), R (mlr, dplyr, lubridate, ggplot, rshiny), Excel, Matlab</li></ul>
+  description: <ul class="resume-item-list"><li>Exploratory Data Analysis</li><li>Graph Analysis (graph visualization, unsupervised anomaly detection, dynamic graph prediction)</li> <li>Natural Language Processing (topic modeling, sentiment analysis)</li><li>Statistics (causal inference, generalized linear modeling, time-series modeling)</li><li>"Tools:" Python (Tensorflow, Keras, Pytorch, Networkx), R (mlr, tidyverse, dplyr, ggplot, rshiny), Gephi,  Excel, Matlab</li></ul>
 
-- skill: Graph Analysis
-  description: Graph visualization and exploration, unsupervised anomaly detection, dynamic graph prediction
+- skill: Data Engineering
+  description: <ul class="resume-item-list"><li>Cloud computing (AWS, GCP, MS Azure, Openstack)</li><li>Distributed data process (Splunk, Hadoop, Spark, Java, Scala)</li><li>SQL (MySQL, PostgreSQL, SPARQL)</li></ul>
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Cooperation Tools
+  description: Github, Gitlab, Jira
