@@ -11,7 +11,7 @@
 - project: Data Mining Cup
   role: Project Manager
   duration: Nov, 2019 &madash; Feb, 2020
-  description: 뮌헨공과대학교내 머신러닝 대회 주최. 데이터 설계 및 학생 지원
+  description: 뮌헨공과대학교내 머신러닝 대회 주최. <p>대회용 데이터셋 설계 및 사전 테스트, 학생 코칭</p>
 # Springfield Community Outreach Group
 - project: Distributed Data Mining
   role: Data Engineer
