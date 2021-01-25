@@ -2,7 +2,7 @@
 - award: TensorFlow Developer Certificate
   organization: TensorFlow
   year: 2021
-  summary: "https://www.credential.net/22603f9e-63f2-4670-8af1-de32d5ff56ec"
+  summary: <a href="https://www.credential.net/22603f9e-63f2-4670-8af1-de32d5ff56ec", target="_blank"> Certificate link</a>
 #  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
 - award: Google Machine Learning Bootcamp
@@ -12,5 +12,5 @@
 - award: Deep Learning Specialization
   organization: Coursera
   year: 2020
-  summary: "https://www.coursera.org/account/accomplishments/specialization/certificate/FWPRMB7L2L8B"
+  summary: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FWPRMB7L2L8B">Certificate link</a>
 # summary: test
