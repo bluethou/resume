@@ -1,14 +1,13 @@
 - project: Political social media engagement around the COVID-19 pandemic
   role: Researcher
   duration: Oct, 2020 &mdash; present
-  description: Crawling Facebook dataset with restAPI, I analyzed and modeled how COVID-19 information spread from official source to unofficial ones.
-  
+  description: 페이스북 사용자 데이터를 분석하여 COVID-19 관련 정보의 확산패턴 분석 및 시계열 모델링. Crawling with restAPI, Social Network Analysi, NLP, Time-series pediction.
+
 - project: Abnormal Events Causal Analysis from Spatio-temporal Human Mobility Network (Thesis project)
   role: Researcher
   duration: Mar, 2020 &mdash; Oct, 2020
   # url: "#"
-  description: Analyzing Twitter users’ geotags and South Korea’s COVID-19 patients’ routes, I figured out how social events affect and are affected by anomalies in a dynamic human mobility graph. It achieved the perfect score in the final thesis evaluation.
-
+  description: 트위터 사용자들의 이동 데이터와, 국내 COVID-19 확진자들의 동선를 시공간 이동 모형으로 표현/분석/모델링. <p>네트워크 이상치와 사회적 사건 간 인과관계 분석</p><p>이상치 탐지를 위한 비지도학습, 네트워크 예측 모델링</p>
 - project: Data Mining Cup
   role: Project Manager
   duration: Nov, 2019 &madash; Feb, 2020
