@@ -7,7 +7,7 @@
   role: Researcher
   duration: Mar, 2020 &mdash; Oct, 2020
   # url: "#"
-  description: 트위터 사용자의 이동 데이터와 국내 코로나19 확진자 동선를 시공간 이동모형으로 표현/분석. <p>네트워크 이상치와 사회적 사건 간 인과관계 분석</p><p>이상치 탐지를 위한 비지도학습, 네트워크 예측 모델링</p>
+  description: 트위터 사용자의 이동 데이터와 국내 코로나19 확진자 동선를 시공간 이동모형으로 표현/분석. <p>네트워크 이상치와 사회적 사건 간 인과관계 분석 이상치 탐지를 위한 비지도학습, 네트워크 예측 모델링</p><p>이상치 탐지를 위한 비지도학습, 네트워크 예측 모델링</p><p>최종 논문평가 최고점(perfect) 기록</p>
 - project: Data Mining Cup
   role: Project Manager
   duration: Nov, 2019 &madash; Feb, 2020
