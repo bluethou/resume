@@ -23,7 +23,7 @@ resume_contact_address:         "Waagstrasse 2, Eching, Germany"
 resume_header_contact_info:     "Waagstrasse 2, Eching, Germany  • kprm2000@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Spatio-temporal mobility analysis</p><p>Network abnormality analysis</p><p>Time-series forecasting</p><p>NLP</p>"
+resume_header_intro: "<p>Spatio-temporal mobility analysis</p><p>Network abnormality analysis</p><p>Time-series forecasting</p><p>Machine Learning application development</p><p>Distributed machine learning on cloud environment</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
