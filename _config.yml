@@ -23,7 +23,7 @@ resume_contact_address:         "Yangju-si, Gyeonggi-do, Republic of Korea"
 resume_header_contact_info:     " Yangju-si, Gyeonggi-do, Republic of Korea  • kprm2000@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Machine Learning application development</p><p>Distributed machine learning on cloud environment</p><p>Spatio-temporal mobility analysis</p><p>Network abnormality analysis</p><p>Time-series forecasting</p>"
+resume_header_intro: "<p>머신러닝 어플리케이션 개발</p><p>Distributed machine learning on cloud environment</p><p>시공간 모빌리티 데이터 분석</p><p>네트워크 이상치 탐지</p><p>시계열 예측 모델</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
