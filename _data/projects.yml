@@ -1,4 +1,5 @@
 - project: <a href="https://github.com/bluethou/ml_prediction_task/blob/main/Task_description.pdf">Click prediction</a>
+  role: Data Analyst / ML engineer
   duration: Feb, 2021
   description: 웹 기반 광고의 클릭 데이터를 분석하여, 클릭 후 실제 구매 행위로 이어지는 확률 예측 모델링 <p> Spark, PCA, Categorical embedding</p>
 
