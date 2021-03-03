@@ -8,7 +8,7 @@
   duration: Oct, 2020 &mdash; March, 2021
   description: 페이스북 사용자 데이터를 분석하여 COVID-19 관련 정보의 확산패턴 분석 및 시계열 모델링.<p>Network analysis, NLP, Time-series pediction.</p><p>Neural Network기반 최종 예측 모델은 Linear model 대비 1/7 수준의 RMSE 기록</p>
 
-- project: <a href="https://github.com/bluethou/Abnormality_in_dynamic_mobility_graph/blob/main/KIM_thsis_presentation_29Oct.pdf">Abnormal Events Ca    usal Analysis from Spatio-temporal Human Mobility Network</a>
+- project: <a href="https://github.com/bluethou/Abnormality_in_dynamic_mobility_graph/blob/main/Kim_thesis_compressed.pdf">Abnormal Events Ca    usal Analysis from Spatio-temporal Human Mobility Network</a>
   role: Researcher
   duration: Mar, 2020 &mdash; Oct, 2020
   # url: "#"
